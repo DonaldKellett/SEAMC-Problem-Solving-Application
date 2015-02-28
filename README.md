@@ -1,2 +1,3 @@
 # SEAMC-Problem-Solving-Application
 I created a Javascript-based application to solve a long-term question in SEAMC that our team got stuck on.  The question: "Find a six digit number that when the the two left-hand digits are transferred to the right-hand end, the new number is exactly two times the original number."
+Note: The Javascript in the file "application.js" is already included in the HTML file and is not needed for the application to run.  However, I have kept it because the .js file gives a better idea as to how the syntax works (the script in the HTML file is in the "onclick" attribute and within the attribute, everything is highlighted yellow, which makes reading and understanding the code harder).
